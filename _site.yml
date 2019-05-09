@@ -1,0 +1,16 @@
+name: "Siti rohaya othman"
+output_dir:"."
+navbar:
+  title: "siti rohaya othman"
+left:
+    -text: "home"
+     href: index.html
+     
+right:
+       -icon: fa-envelope fa-lg
+     href: contact.html
+     
+output:
+    html_document
+       theme: paper
+       css: "style.css"

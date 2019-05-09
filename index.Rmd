@@ -1,0 +1,16 @@
+  
+e:""  
+  
+  
+k rel="stylesheet" href=:"style.css" type="text/css">  
+  
+  
+  <img src="image/profile1.jpeg" style="width:20%, border:10px solid" align="centre">
+  
+**siti rohaya othman**
+**clerk**
+**institut pendidikan neo**
+**UiTM Kedah Branch Campus**
+---
+
+**background**
